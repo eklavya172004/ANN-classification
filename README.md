@@ -23,7 +23,7 @@ This project demonstrates a binary classification problem using Artificial Neura
 
 3. Install dependencies:
    ```bash
-   pip install -r requirement.txt
+   pip install -r requirements.txt
    ```
 
 ## Usage
